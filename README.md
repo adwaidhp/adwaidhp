@@ -22,7 +22,7 @@
 
 ### `> whoami`
 
-I build things. I break things. Somewhere betweeen dev and sec obsessed with every layer in between.
+I build things. I break things. Somewhere betweeen dev and sec, I'm obsessed with every layer in between.
 
 ---
 
