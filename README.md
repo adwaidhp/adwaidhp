@@ -12,9 +12,9 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  Securing pipelines. Shipping code. Staying paranoid.   ║
-╚══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║ [ build ] → [ break ] → [ understand ] → [ secure ] → [ repeat ]  ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -23,7 +23,7 @@
 
 ### `> whoami`
 
-DevSecOps engineer with a taste for cybersecurity and a habit of shipping things that actually work. I live at the intersection of cloud infrastructure, secure pipelines, and the occasional frontend vibe. If it can be automated, it will be. If it can be secured, it must be.
+I build things. I break things. Somewhere betweeen dev and sec obsessed with every layer in between.
 
 ---
 
