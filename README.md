@@ -128,10 +128,7 @@ A donation platform connecting verified NGOs with donors. Supports monetary, goo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adwaidhp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaidhp&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=level-alternate&theme=github-dark&fontFamily=Anonymous%20Pro&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 ---
