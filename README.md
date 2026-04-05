@@ -28,20 +28,22 @@ I build things. I break things. Somewhere betweeen dev and sec obsessed with eve
 
 ### `> cat tech_stack.conf`
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="33%">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,bash,java&theme=dark" />
 
   </td>
     <td align="center" width="33%">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,svelte&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,react,svelte&theme=dark" />
 
   </td>
     <td align="center" width="33%">
@@ -57,7 +59,7 @@ I build things. I break things. Somewhere betweeen dev and sec obsessed with eve
 
 **DevSecOps & Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,postman&theme=dark" />
 
   </td>
     <td align="center" width="33%">
@@ -70,14 +72,15 @@ I build things. I break things. Somewhere betweeen dev and sec obsessed with eve
   </td>
     <td align="center" width="33%">
 
-**Hobbies**
+**More**
 
-<img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
-<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=figma,vscode,linux&theme=dark" />
 
   </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
