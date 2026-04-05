@@ -1,4 +1,3 @@
-
 ---
 
 <div align="center">
@@ -29,36 +28,56 @@ I build things. I break things. Somewhere betweeen dev and sec obsessed with eve
 
 ### `> cat tech_stack.conf`
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,svelte&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,bash,rust&theme=dark" />
+
+  </td>
+    <td align="center" width="33%">
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,svelte&theme=dark" />
+
+  </td>
+    <td align="center" width="33%">
 
 **Backend & Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=express,nodejs,mongodb&theme=dark" />
+
+  </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
 
 **DevSecOps & Cloud**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" />
+
+  </td>
+    <td align="center" width="33%">
 
 **Security**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
+<img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+  </td>
+    <td align="center" width="33%">
+
+**Hobbies**
+
+<img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
+<img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,28 +87,28 @@ I build things. I break things. Somewhere betweeen dev and sec obsessed with eve
 <tr>
 <td width="50%">
 
+**[BlindFold](https://github.com/adwaidhp/BlindFold)**
+`Python` `InsightFace` `AES+RSA` `SQLite`
+
+A privacy-first digital forensics system that automates sensitive media detection during forensic investigations. Combines face recognition, NSFW detection, and deepfake analysis with hybrid AES+RSA encrypted evidence storage, judicial-only decryption, and a tamper-proof audit chain.
+
+</td>
+<td width="50%">
+
 **[Fractal](https://github.com/adwaidhp/Fractal)**
 `Rust` `GitHub Actions` `Next.js`
 
 Contributed to a Rust-based programming language. Built the CI/CD pipeline for automated releases via GitHub Actions and developed the landing page using Next.js.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[ShareWave](https://github.com/adwaidhp/donations)**
 `TypeScript` `Express` `MongoDB`
 
 A donation platform connecting verified NGOs with donors. Supports monetary, goods, and skill-based contributions with real-time impact tracking.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Notes](https://github.com/adwaidhp/Notes)**
-`JavaScript` `MongoDB` `Express`
-
-A MERN stack CRUD application — clean, minimal, and gets the job done.
 
 </td>
 <td width="50%">
