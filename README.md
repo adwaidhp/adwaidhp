@@ -126,44 +126,16 @@ A donation platform connecting verified NGOs with donors. Supports monetary, goo
 
 ### `> cat stats.json`
 
-<div>
+<div align="center">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=github&theme=github-dark&fontFamily=&preferLogin=false&Points.Commits=3&Background=151B23)](https://git.io/awesome-stats-card)
 
 </div>
 
----
-
-### `> grep -r "connect" /etc/adwaidh`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adwaidh--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adwaidh-p/)
-[![GitHub](https://img.shields.io/badge/GitHub-adwaidhp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adwaidhp)
+![Visitor Count](https://komarev.com/ghpvc/?username=adwaidhp&color=00FF9C&style=for-the-badge&label=profile+views+(⚆_⚆)+%20&color=blue)
 
 </div>
 
----
 
-### `> cat /etc/motd`
-
-<div align="center">
-
-> *"Security is not a product, but a process."*
-> — Bruce Schneier
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=adwaidhp&color=00FF9C&style=flat-square&label=profile+views)
-
-</div>
-
----
-
-<div align="center">
-<sub>built with intent · secured by design · automated by default</sub>
-</div>
