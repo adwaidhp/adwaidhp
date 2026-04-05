@@ -126,9 +126,10 @@ A donation platform connecting verified NGOs with donors. Supports monetary, goo
 
 ### `> cat stats.json`
 
-<div align="center">
+<div>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=level-alternate&theme=github-dark&fontFamily=Anonymous%20Pro&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=github&theme=github-dark&fontFamily=&preferLogin=true&Points.Commits=3)](https://git.io/awesome-stats-card)
+
 </div>
 
 ---
