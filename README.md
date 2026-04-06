@@ -66,9 +66,8 @@ I build things. I break things. Somewhere betweeen dev and sec, I'm obsessed wit
 
 **Security**
 
-<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-
-<img alt="Burp Suite" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" width="15%" style="border-radius: 15px;"/>
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" height="48" />
+<img alt="Burp Suite" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" height="48" />
 
   </td>
     <td align="center" width="33%">
@@ -132,9 +131,7 @@ A donation platform connecting verified NGOs with donors. Supports monetary, goo
 <table>
   <tr>
     <td width="50%">
-      <a href="https://git.io/awesome-stats-card">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=3&Background=151B23" alt="My Awesome Stats" width="100%" />
-      </a>
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=3&Background=0d1117&Border=FFFFFF&borderRadius=6" alt="My Awesome Stats" width="100%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adwaidhp&layout=compact&theme=github_dark" alt="GitHub Stats" width="80%" />
