@@ -67,7 +67,8 @@ I build things. I break things. Somewhere betweeen dev and sec, I'm obsessed wit
 **Security**
 
 <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-<img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img alt="Burp Suite" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" width="15%" style="border-radius: 15px;"/>
 
   </td>
     <td align="center" width="33%">
