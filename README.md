@@ -128,7 +128,20 @@ A donation platform connecting verified NGOs with donors. Supports monetary, goo
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=github&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=3&Background=151B23)](https://git.io/awesome-stats-card)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adwaidhp?cardType=github&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Points.Commits=3&Background=151B23" alt="My Awesome Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adwaidhp&layout=compact&theme=github_dark" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
 
 </div>
 
