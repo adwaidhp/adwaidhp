@@ -90,7 +90,7 @@ I build things. I break things. Somewhere betweeen dev and sec, I'm obsessed wit
 <tr>
 <td width="50%">
 
-**[BlindFold](https://github.com/adwaidhp/BlindFold)**
+**[BlindFold](https://github.com/adwaidhp/INNOVATE_HACKATHON)**
 `Python` `InsightFace` `AES+RSA` `SQLite`
 
 A privacy-first digital forensics system that automates sensitive media detection during forensic investigations. Combines face recognition, NSFW detection, and deepfake analysis with hybrid AES+RSA encrypted evidence storage, judicial-only decryption, and a tamper-proof audit chain.
